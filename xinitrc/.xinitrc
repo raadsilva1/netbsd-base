@@ -29,7 +29,7 @@ export TERMINAL="${TERMINAL:-xterm}"
 # Default cursor and root background.
 # xsetroot -cursor_name left_ptr &
 # If you use a wallpaper tool like feh, nitrogen, or hsetroot, call it here:
-#   feh --bg-fill ~/Pictures/wallpaper.jpg &
+feh --bg-fill ~/Images/netbsd.png
 #   nitrogen --restore &
 
 # Disable screen blanking / DPMS if you want; comment out to keep defaults.

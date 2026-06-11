@@ -1,0 +1,5 @@
+#!/bin/ksh
+
+git config --global user.name "raadsilva1"
+
+git config --global user.email "raadsilva1@gmail.com"
